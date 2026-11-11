@@ -1,0 +1,1 @@
+This is based on a LinkedIn Learn tutorial. NodeJS backend using hapi server and Firebase authentication. This calls a MySql DB and is hosted along with the Angular front-end and DB on Google Cloud at https://buy-and-sell-1e31d.ue.r.appspot.com.
